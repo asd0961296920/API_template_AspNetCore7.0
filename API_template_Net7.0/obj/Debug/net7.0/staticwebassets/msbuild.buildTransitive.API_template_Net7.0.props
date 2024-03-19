@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/API_template_Net7.0.props" />
+</Project>

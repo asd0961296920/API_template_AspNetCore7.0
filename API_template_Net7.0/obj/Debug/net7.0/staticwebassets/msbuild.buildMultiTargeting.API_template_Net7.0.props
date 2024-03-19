@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/API_template_Net7.0.props" />
+</Project>
